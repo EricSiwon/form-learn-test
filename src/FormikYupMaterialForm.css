@@ -1,0 +1,27 @@
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+  text-decoration-line: underline;
+}
+
+.has-error {
+  border: 1px solid red;
+}
+
+.input-error {
+  color: red;
+}
+
+.input-valid {
+  color: green;
+}
+
+.debug-button {
+  background-color: grey;
+  color: beige;
+  font-size: 1rem;
+  border-radius: 5px;
+}
